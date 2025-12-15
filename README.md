@@ -1,1 +1,1 @@
-![Levls Badge](https://levls.dev/api/v1/solo/badge?token=Z0FBQUFBQnBQODZRSFduTS1IY1RBSl9IZ2xnSHpjYzVCTzFYY1JscHRqUkJlaGhMcTZ0SGJGU1B2SFR0dHhvZGZmUHZta3Q5QjhWRWhpUl9mdEtXOVJWS0dVR0NJb0RwQ3c9PQ==)
+
